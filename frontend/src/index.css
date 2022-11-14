@@ -30,3 +30,13 @@ a:visited {
     color: unset;
     text-decoration: none;
 }
+
+#sales {
+    padding: 40px 10px;
+}
+
+.meta-sales-card-container {
+    margin: 0 auto;
+    max-width: 900px;
+    width: 100%;
+}
