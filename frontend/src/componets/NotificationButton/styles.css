@@ -1,0 +1,17 @@
+.meta-notfication-button {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 45px;
+    left: 223px;
+    top: 546px;
+    background: rgba(255, 107, 114, 0.1);
+    border: 1px solid #FF6B72;
+    border-radius: 10px;
+}
+
+.meta-notfication-button img {
+    width: 19px;
+}
