@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="10.8373mm" height="12.5779mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1069.65 1241.44"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#003399}
+    .fil0 {fill:#D1E8F6}
+    .fil2 {fill:url(#id0);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="329.41" y1="319.85" x2="740.25" y2="1165.97">
+   <stop offset="0" style="stop-opacity:1; stop-color:yellow"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#DEB907"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#BD720F"/>
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <circle class="fil0" cx="534.83" cy="534.83" r="534.82"/>
+  <path class="fil1" d="M534.83 0c129.91,0 248.99,46.34 341.65,123.36l-212.93 0 -128.15 500.75 -127.78 -500.75 -214.45 0c92.66,-77.02 211.74,-123.36 341.65,-123.36zm462.63 266.35c45.89,78.9 72.19,170.61 72.19,268.47 0,97.86 -26.3,189.56 -72.19,268.47l0 -536.95zm-121.01 679.97c-92.65,77.01 -211.72,123.33 -341.62,123.33 -129.9,0 -248.96,-46.32 -341.62,-123.33l87.02 0 0 -627.38 160.15 627.38 188.5 0 160.54 -627.38 0 627.38 87.03 0zm-804.26 -143.03c-45.9,-78.9 -72.19,-170.6 -72.19,-268.46 0,-97.86 26.3,-189.56 72.19,-268.46l0 536.93z"/>
+  <polygon class="fil2" points="210.6,244.37 403.77,244.37 538.59,746.45 671.46,244.37 859.07,244.37 636.92,941.96 537.6,1241.44 436.64,941.96 "/>
+ </g>
+</svg>
